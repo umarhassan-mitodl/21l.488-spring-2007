@@ -1,0 +1,54 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "legacy_uid": "24ad1f07-b0bf-924c-4adc-3bc4bce85214",
+  "instructors": {
+    "content": [
+      "055e5f6c-1e84-4cb7-7423-2a868f9fc921"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "2460b456-e52f-b32c-a336-72e0231443e6",
+    "website": "21l-488-contemporary-literature-british-novels-now-spring-2007"
+  },
+  "course_title": "Contemporary Literature: British Novels Now",
+  "course_description": "What is Britain now? Its metropolises are increasingly multicultural. Its hold over its distant colonies is a thing of the past. Its sway within the global political arena is weak. Its command over Northern Ireland, Wales, and Scotland is broken or threatened. What have novelists made of all this? What are they writing as the old empire fades away and as new social and political formations emerge? These are the questions that will concern us in this course.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.488",
+  "course_image_thumbnail": {
+    "content": "79b58c66-8b6a-0fd6-ef2f-a3a83c009b50",
+    "website": "21l-488-contemporary-literature-british-novels-now-spring-2007"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments",
+    "Presentation Assignments"
+  ],
+  "site_uid": "94997d2d-7e44-4a89-9642-39d07731ccbf",
+  "site_short_id": "21l.488-spring-2007",
+  "site_url_path": "courses/21l-488-contemporary-literature-british-novels-now-spring-2007",
+  "title": "Course Metadata"
+}
