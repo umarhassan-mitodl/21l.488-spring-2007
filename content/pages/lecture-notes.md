@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains outlines of three lectures. Because this was a
   seminar course, the emphasis was on discussion, rather than formal lecture.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
