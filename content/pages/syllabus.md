@@ -2,8 +2,6 @@
 content_type: page
 description: This syllabus section provides the course description and information
   on course objectives, grading and assignments, attendance, and guidelines for citations.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -92,7 +90,7 @@ Please see {{% resource_link 536502f8-290e-74f6-250c-5fe860acad58 "assignments" 
 
 On the assigned due date bring one paper copy to class or to my mailbox by 5pm. I can only provide extensive commentary on your writing and argument - and **I will** - if I receive your materials on time. Late papers will also lose 1% (of the course total 100%) each working day; they should be brought to the main Literature office, during working hours, and dated by the administrative assistant.
 
-Please read and understand the following policy statement: "Plagiarism - use of another's intellectual work without acknowledgement - is a serious offense." It is the policy of the Literature Faculty that students who plagiarize will receive an **F** in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. **F** For further guidance on the proper forms of attribution, consult the style guides available at [MIT Writing and Communication Center](http://web.mit.edu/writing/index.html) and the [MIT Academic Integrity](http://web.mit.edu/academicintegrity/).
+Please read and understand the following policy statement: "Plagiarism - use of another's intellectual work without acknowledgement - is a serious offense." It is the policy of the Literature Faculty that students who plagiarize will receive an **F** in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. **F** For further guidance on the proper forms of attribution, consult the style guides available at {{% resource_link "23d5078d-7783-4e59-8f01-91316b83bf4a" "MIT Writing and Communication Center" %}} and the {{% resource_link "0d482714-4594-4d4e-a918-cd179134d5af" "MIT Academic Integrity" %}}.
 
 ### Two Presentations
 
